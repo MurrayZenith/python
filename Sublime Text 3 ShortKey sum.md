@@ -1,6 +1,8 @@
 # Sublime Text 3 快捷键总结（拿走）from Douban
 Family 2014-06-24 22:17:25 
 以下是个人总结不完全的快捷键总汇，祝愿各位顺利解放自己的鼠标。
+
+Read more @ [recommended doc](http://docs.sublimetext.info/en/latest/)
 ---
 ##选择类
 
